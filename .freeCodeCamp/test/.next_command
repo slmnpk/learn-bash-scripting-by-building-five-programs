@@ -71,3 +71,13 @@ echo $?
 [[ 10 -ne 5 ]]
 *bad_command
 bad_command
+ls --color=auto .
+ls --color=auto . countdown.sh questionnaire.sh
+bad_command
+ls --color=auto . countdown.sh questionnaire.sh
+ls --color=auto .
+ls --color=auto .
+ls --color=auto .
+ls --color=auto .
+bad_command
+ls --color=auto
