@@ -204,3 +204,4 @@ view sleep
 type sleep
 type then
 type bash
+type psql
