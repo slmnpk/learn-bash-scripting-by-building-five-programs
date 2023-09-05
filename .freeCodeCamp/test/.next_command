@@ -140,3 +140,6 @@ declare -p J
 declare -p NUMBER
 declare -p RANDON
 declare -p RANDOM
+echo $RANDOM % 75
+__vsc_prompt_cmd_original
+echo $(( RANDOM % 75 ))
