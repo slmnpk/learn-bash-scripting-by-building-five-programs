@@ -200,3 +200,6 @@ help type
 type echo
 type read
 type if
+view sleep
+type sleep
+type then
